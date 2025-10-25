@@ -12,18 +12,22 @@
   - SNMPを使用した機器制御や監視
 
 ## Languages
-- C, C++
-- C#
+- C# (.NET Framework)
+- C/C++
 - VB.NET
+- OpenCL
+- アセンブリ言語(z80,8086など)
 - HTML5
 - CSS
 - PHP
 - Javascript
 - Kotlin (勉強中)
 - Python (勉強中)
+- Fortran (学校で習っただけ)
+- COBOL (学校で習っただけ)
 
 ## Tools
 - Visual Studio
 - VS Code
-- ATDE
+- ATDE5 (AtmarkTechno)
 - Android Studio
