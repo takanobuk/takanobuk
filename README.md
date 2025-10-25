@@ -5,11 +5,11 @@
 - 🌱 Android開発(Jetpack Compose), Python など勉強中
 
 ## 🛠️ Tech Stack
-- 主に映像システムにおける制御PCアプリ開発
-- 主に映像システムにおける監視PCアプリ開発
+- 制御PCアプリ開発(主に映像システム)
+- 監視PCアプリ開発(主に映像システム)
 - 組込Linux開発(Armadillo-400シリーズ)
-  - RS-232C, RS-422, TCP, UDPなどで機器独自プロトコルへの対応
-  - SNMPで機器監視や制御
+  - RS-232C, RS-422, TCP, UDPなどで機器独自プロトコルを使用した機器制御や監視
+  - SNMPを使用した機器制御や監視
 
 ## Languages
 - C, C++
