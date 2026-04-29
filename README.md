@@ -10,11 +10,14 @@
 - 組込Linux開発(Armadillo-400シリーズ)
   - RS-232C, RS-422, TCP, UDPなどで機器独自プロトコルを使用した機器制御や監視
   - SNMPを使用した機器制御や監視
+- 組込Linux開発(Raspberry Pi)
+  - シリアルで受信した電文に従って、HDMI接続のLCDパネルにpygameで文字列表示を行う表示装置
 
 ## Languages
 - C# (.NET Framework)
 - C/C++
-- VB.NET
+- VisualBASIC(.NET Framework, VB6)
+- Python
 - OpenCL
 - アセンブリ言語(z80,8086など)
 - HTML5
@@ -22,7 +25,6 @@
 - PHP
 - Javascript
 - Kotlin (勉強中)
-- Python (勉強中)
 - Fortran (学校で習っただけ)
 - COBOL (学校で習っただけ)
 
