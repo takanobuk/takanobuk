@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 ソフトウェア受託開発のフリーランス
-- 🌱 Android開発(Jetpack Compose), Python など勉強中
+- 🌱 Python, Android開発(Jetpack Compose) など勉強中
 
 ## 🛠️ Tech Stack
 - 制御PCアプリ開発(主に映像システム)
@@ -17,13 +17,13 @@
 - C# (.NET Framework)
 - C/C++
 - VisualBASIC(.NET Framework, VB6)
-- Python
-- OpenCL
-- アセンブリ言語(z80,8086など)
 - HTML5
 - CSS
 - PHP
 - Javascript
+- Python
+- OpenCL
+- アセンブリ言語(z80,8086など)
 - Kotlin (勉強中)
 - Fortran (学校で習っただけ)
 - COBOL (学校で習っただけ)
