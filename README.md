@@ -15,8 +15,8 @@
 
 ## Languages
 - C# (.NET Framework)
+- Visual BASIC(.NET Framework, VB6)
 - C/C++
-- VisualBASIC(.NET Framework, VB6)
 - HTML5
 - CSS
 - PHP
